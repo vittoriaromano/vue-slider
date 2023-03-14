@@ -52,7 +52,10 @@ const { createApp } = Vue
         if (this.activeImage < 0){
             this.activeImage = this.slides.length - 1;
         }
-
+       },
+       selectImage( index){
+         console.log(index)
+         this.activeImage = index;
        }
     }
   }).mount('#app');
