@@ -7,6 +7,10 @@ Partendo dal markup della versione svolta in js plain, rifare lo slider ma quest
 - aggiungere message nell'html
 - apendere all 'app'
 
-- creare un array di film
+- caggiungere l'array di film
 - modificare il testi nel' Html via baffi
+
+- agiungere nel' Html il click, e creare le due funzioni: incremento e decremento
+- riassicurare che se le imagini superano il numero dell'array torninio a 0,
+- e se minore di zero vadano alla lungherra maggiore possibile dell'array
 
